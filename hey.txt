@@ -2,3 +2,4 @@ hello world
 add slave
 add again slave
 added by slave2.
+added by slave3.
