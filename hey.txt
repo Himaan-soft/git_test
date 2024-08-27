@@ -10,4 +10,8 @@ added by slave6.
 added by slave7.
 added by slave7.
 added by slave8.
+<<<<<<< HEAD
+added by slave9.
+=======
 added by main
+>>>>>>> origin
